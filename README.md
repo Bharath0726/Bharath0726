@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi there 👋 Bharath Girirajan
 
+
+💬 Ask me about Python, Machine Learning, LLM's, Diet Plan, Gym and a good playlist🎧
+
+Need to know more about me: Ask Him : [JARVIS ](https://bharathgirirajan.streamlit.app/)
 <!--
 **Bharath0726/Bharath0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you
+
+started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
