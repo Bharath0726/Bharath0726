@@ -1,21 +1,67 @@
 ## Hi there 👋 I'm Bharath Girirajan
 
-I'm passionate about building scalable Backend Systems, designing robust Data Pipelines, and exploring the intersection of Cloud Architecture and Generative AI.
-I love architecting end-to-end solutions that are efficient, scalable, and solve real-world challenges. Always excited to build and deploy cool projects!
+I'm passionate about Machine Learning, AI development, and backend systems. I enjoy designing scalable solutions that integrate AI and cloud technologies to solve real-world problems. Always excited to collaborate and explore innovative projects!
 
-💬 Ask me about Python, Machine Learning, LLM's, Diet Plan, Gym and a good playlist🎧
+## 👨‍🎓💼 About Me
+🔭 I hold a **Master of Science in Business Analytics and Project Management**, specializing in **Data Science** from the **University of Connecticut**.
 
-👨‍🎓🙋‍♂️ About Me 💼🎒:
-🔭 I hold a Master of Science in Business Analytics and Project Management from the University of Connecticut.
-<br>
-🔭 I have 3+ years of professional experience developing scalable backend services, optimizing relational databases, and delivering data-driven insights across the fintech and healthcare sectors.
-<br>
-🔭 I have strong practical experience in developing and deploying agentic AI systems using LangChain, LangGraph, and Retrieval-Augmented Generation (RAG) frameworks.
+I have **3+ years of experience** in Python/SQL development, focusing on backend services, RESTful APIs, and cloud-native solutions.
 
-## 🪚🔧 My Skills 😀😀:
+I have strong practical experience in **AI development**, **data integration**, and **building scalable backend systems** using **AWS** and **GCP**
 
-These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
+### Notable Courses:
+- **Predictive Analytics**
+- **Generative AI**
+- **Visual Analytics**
+- **Data Science with Python**
 
+### Technologies & Tools I Work With:
+- **Programming & Scripting**: Python (FastAPI, Pandas), Java, PostgreSQL, SQL, JSON, XML
+- **Cloud Platforms**: AWS (EC2, S3, Lambda, Glue), Docker, Jenkins, Git
+- **AI & Frameworks**: LangChain, LangGraph, HuggingFace Transformers, OpenAI API, Qdrant, SpaCy
+- **CI/CD & DevOps**: Jenkins, Docker, GitHub, GitLab
+
+## 🔭 My Experience
+
+### AI Developer | **EasyBee AI** | *Boston, MA* | Feb 2025 - Present
+- Designed and developed scalable backend services and RESTful APIs using Python (FastAPI) and deployed on AWS EC2.
+- Improved API performance by reducing latency by 25% through Redis-based caching.
+- Automated real-time model inference updates via LangChain pipelines.
+- Collaborated with stakeholders to convert business requirements into technical specifications.
+
+### Programmer Analyst | **Cognizant Technology Solutions** | *Atlanta, USA* | Oct 2021 - Jul 2023
+- Developed and deployed a critical RESTful API to synchronize data between payment systems.
+- Enhanced database performance by 40% through optimized SQL queries and strategic indexing.
+- Ensured API security and compliance with fintech standards.
+
+### Data Analyst | **A&A International Trading** | *Chennai, IN* | Mar 2021 - Sep 2021
+- Developed Power BI dashboards to track logistics KPIs and reduce transportation costs by 10%.
+- Analyzed global commodity prices using SQL to support high-value international trading contracts.
+
+## 🔭 Some of the Projects I’ve Worked On
+
+### AI-Powered WhatsApp Agent
+**Tech Stack**: Python, LangGraph, Groq, Qdrant, FastAPI, Chainlit, Docker  
+**Date**: Mar 2025  
+- Built an AI agent to facilitate WhatsApp interactions using LLaMA 3.2 Vision, achieving 90% message response accuracy.  
+- Enabled multimodal processing (voice, image, text) using Whisper and ElevenLabs, deployed on Cloud Run.
+
+### AI-Driven ATS Resume Scoring System
+**Tech Stack**: Python, SpaCy, PyPDF2, PostgreSQL  
+**Date**: Dec 2024  
+- Created an AI-powered ATS tracking system using GPT-4 for resume scoring with an 85% accuracy rate.  
+- Automated candidate communications, reducing processing time by 40%.
+
+## 🎓 Education
+
+**University of Connecticut, School of Business** - Hartford, Connecticut  
+Master of Science in Business Analytics and Project Management (Data Science Concentration)  
+**GPA**: 3.8/4.0  
+**Graduation Date**: May 2025
+
+## 📫 How to Reach Me:
+- **LinkedIn**: [Bharath's LinkedIn](https://www.linkedin.com/in/bharath-karthick/)
+- **Email**: [bharathgirirajan07@gmail.com](mailto:bharathgirirajan07@gmail.com)
 ---
 
 <p align="left">
