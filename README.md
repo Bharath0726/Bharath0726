@@ -130,12 +130,6 @@ Master of Science in Business Analytics and Project Management (Data Science Con
 ## 🖥 My Machine Learning Projects
 The following links include detailed descriptions within each GitHub repository:
 
-The following links include detailed descriptions within each GitHub repository:
-
-| 🚀 [Predicting Startup outcomes with XGBoost](https://github.com/yourusername/yourrepo) | 🧑‍💻 [HR Job Market Analysis using Light GBM](https://github.com/yourusername/yourrepo) |
-|---|---|
-| ![Predicting Startup outcomes]([[https://path_to_image/your_image.png](https://github.com/Bharath0726/Images-/blob/main/Whatsapp_Agent.png)](https://github.com/Bharath0726/Images-/blob/main/Whatsapp_Agent.png)) | ![HR Job Market Analysis](https://path_to_image/your_image.png) |
-
 🚀 [AI-Powered WhatsApp Agent](https://github.com/Bharath0726/AI-Powered-WhatsApp-Agent)  
 👨🏻‍💻 [AI-Driven ATS Resume Scoring System](https://github.com/Bharath0726/AI-Driven-ATS-Resume-Scoring-System)  
 🏭 [Data Integration with AWS EC2](https://github.com/Bharath0726/Data-Integration-with-AWS-EC2)  
