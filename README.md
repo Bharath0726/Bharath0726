@@ -1,13 +1,16 @@
 ## Hi there 👋 I'm Bharath Girirajan
 
+I'm passionate about building scalable Backend Systems, designing robust Data Pipelines, and exploring the intersection of Cloud Architecture and Generative AI.
+I love architecting end-to-end solutions that are efficient, scalable, and solve real-world challenges. Always excited to build and deploy cool projects!
 
 💬 Ask me about Python, Machine Learning, LLM's, Diet Plan, Gym and a good playlist🎧
 
-## 🪚🔧 My Skills 😀😀:
-
-These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
-
----
+👨‍🎓🙋‍♂️ About Me 💼🎒:
+🔭 I hold a Master of Science in Business Analytics and Project Management from the University of Connecticut.
+<br>
+🔭 I have 3+ years of professional experience developing scalable backend services, optimizing relational databases, and delivering data-driven insights across the fintech and healthcare sectors.
+<br>
+🔭 I have strong practical experience in developing and deploying agentic AI systems using LangChain, LangGraph, and Retrieval-Augmented Generation (RAG) frameworks.
 
 ## 🪚🔧 My Skills 😀😀:
 
