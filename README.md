@@ -39,7 +39,6 @@ I have strong practical experience in **AI development**, **data integration**, 
 
 **University of Connecticut, School of Business** - Hartford, Connecticut  
 Master of Science in Business Analytics and Project Management (Data Science Concentration)  
-**GPA**: 3.8/4.0  
 **Graduation Date**: May 2025
 
 ## 📫 How to Reach Me:
