@@ -21,23 +21,6 @@ I have strong practical experience in **AI development**, **data integration**, 
 - **AI & Frameworks**: LangChain, LangGraph, HuggingFace Transformers, OpenAI API, Qdrant, SpaCy
 - **CI/CD & DevOps**: Jenkins, Docker, GitHub, GitLab
 
-## 🔭 My Experience
-
-### AI Developer | **EasyBee AI** | *Boston, MA* | Feb 2025 - Present
-- Designed and developed scalable backend services and RESTful APIs using Python (FastAPI) and deployed on AWS EC2.
-- Improved API performance by reducing latency by 25% through Redis-based caching.
-- Automated real-time model inference updates via LangChain pipelines.
-- Collaborated with stakeholders to convert business requirements into technical specifications.
-
-### Programmer Analyst | **Cognizant Technology Solutions** | *Atlanta, USA* | Oct 2021 - Jul 2023
-- Developed and deployed a critical RESTful API to synchronize data between payment systems.
-- Enhanced database performance by 40% through optimized SQL queries and strategic indexing.
-- Ensured API security and compliance with fintech standards.
-
-### Data Analyst | **A&A International Trading** | *Chennai, IN* | Mar 2021 - Sep 2021
-- Developed Power BI dashboards to track logistics KPIs and reduce transportation costs by 10%.
-- Analyzed global commodity prices using SQL to support high-value international trading contracts.
-
 ## 🔭 Some of the Projects I’ve Worked On
 
 ### AI-Powered WhatsApp Agent
