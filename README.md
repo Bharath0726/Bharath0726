@@ -130,6 +130,8 @@ Master of Science in Business Analytics and Project Management (Data Science Con
 ## 🖥 My Machine Learning Projects
 The following links include detailed descriptions within each GitHub repository:
 
+### ![WhatsApp Agent AI Interaction](Whatsapp_Agent.png)
+
 🚀 [AI-Powered WhatsApp Agent](https://github.com/Bharath0726/AI-Powered-WhatsApp-Agent)  
 👨🏻‍💻 [AI-Driven ATS Resume Scoring System](https://github.com/Bharath0726/AI-Driven-ATS-Resume-Scoring-System)  
 🏭 [Data Integration with AWS EC2](https://github.com/Bharath0726/Data-Integration-with-AWS-EC2)  
