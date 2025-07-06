@@ -29,7 +29,7 @@ I have strong practical experience in **AI development**, **data integration**, 
 - Built an AI agent to facilitate WhatsApp interactions using LLaMA 3.2 Vision, achieving 90% message response accuracy.  
 - Enabled multimodal processing (voice, image, text) using Whisper and ElevenLabs, deployed on Cloud Run.
 
-### AI-Driven ATS Resume Scoring System
+### AI-Driven ATS Resume Scoring System 
 **Tech Stack**: Python, SpaCy, PyPDF2, PostgreSQL  
 **Date**: Dec 2024  
 - Created an AI-powered ATS tracking system using GPT-4 for resume scoring with an 85% accuracy rate.  
@@ -127,33 +127,6 @@ Master of Science in Business Analytics and Project Management (Data Science Con
     </a>
 </p>
 
-## 🖥 My Machine Learning Projects
-The following links include detailed descriptions within each GitHub repository:
 
-🚀 [AI-Powered WhatsApp Agent](https://github.com/Bharath0726/AI-Powered-WhatsApp-Agent)  
-👨🏻‍💻 [AI-Driven ATS Resume Scoring System](https://github.com/Bharath0726/AI-Driven-ATS-Resume-Scoring-System)  
-🏭 [Data Integration with AWS EC2](https://github.com/Bharath0726/Data-Integration-with-AWS-EC2)  
-☎️ [API Development and Optimization for Payment Systems](https://github.com/Bharath0726/API-Development-for-Payment-Systems)
-
-## 🖥 My Generative AI Projects
-⛁ [AI-powered WhatsApp Agent using LangGraph and Groq](https://github.com/Bharath0726/AI-Powered-WhatsApp-Agent)  
-⛁ [AI-Driven Resume Application Tracking System (ATS)](https://github.com/Bharath0726/AI-Driven-ATS-Resume-Tracking)  
-⛁ [Real-Time Resume Scoring using GPT-4](https://github.com/Bharath0726/Real-Time-Resume-Scoring)  
-⛁ [LangChain-powered Data Ingestion Pipelines](https://github.com/Bharath0726/LangChain-Data-Ingestion)
-
-## 🖥 My AWS Projects
-⛁ [Create Database and Tables using AWS Athena](https://github.com/Bharath0726/Create-Database-with-Athena)  
-💻 [Using AWS S3 for Data Storage and Integration](https://github.com/Bharath0726/Using-AWS-S3-for-Data-Storage)
-
-## 🖥 My Technical Blogs
-📃 [Demystifying P-Values: A Guide for Non-Technical Stakeholders](https://github.com/Bharath0726/Demystifying-P-Values)  
-📃 [Understanding Type I and Type II Errors in Hypothesis Testing: A Data Scientist’s Perspective](https://github.com/Bharath0726/Understanding-Type-I-and-Type-II-Errors)  
-📃 [Head Start Your Machine Learning Journey! 🚀](https://github.com/Bharath0726/Head-Start-Your-Machine-Learning-Journey)  
-📃 [All About Data Preprocessing](https://github.com/Bharath0726/All-About-Data-Preprocessing)
-
-## 📫 How to Reach Me:
-- **LinkedIn**: [Bharath's LinkedIn](https://www.linkedin.com/in/bharath-karthick/)
-- **Email**: [bharathgirirajan07@gmail.com](mailto:bharathgirirajan07@gmail.com)
-- **GitHub**: [Bharath's GitHub](https://github.com/Bharath0726)
 
 
