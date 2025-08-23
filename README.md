@@ -5,7 +5,7 @@ I'm passionate about Machine Learning, AI development, and backend systems. I en
 ## 👨‍🎓💼 About Me
 🔭 I hold a **Master of Science in Business Analytics and Project Management**, specializing in **Data Science** from the **University of Connecticut**.
 
-I have **3+ years of experience** in Python/SQL development, focusing on backend services, RESTful APIs, and cloud-native solutions.
+I have **5+ years of experience** in Python/SQL development, focusing on backend services, RESTful APIs, and cloud-native solutions.
 
 I have strong practical experience in **AI development**, **data integration**, and **building scalable backend systems** using **AWS** and **GCP**
 
